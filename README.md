@@ -1,9 +1,3 @@
-<!--
-This template is a modification of the https://github.com/a0m0rajab author's template repository. You can find the original template here https://github.com/open-sauced/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md
--->
-
-[**Note**: All messages containing this emoji 👉 should be deleted (including this message)]
-
 ## What type of PR is this? (check all applicable)
 
 - [ ] 🍕 Feature
@@ -11,12 +5,15 @@ This template is a modification of the https://github.com/a0m0rajab author's tem
 - [ ] 📝 Documentation Update
 - [ ] 🎨 Style
 - [ ] 🧑‍💻 Code Refactor
-- [ ] 🔥 Performance Improvements
+- [ ] 🚀 Application Performance Improvements
+- [ ] 🔧 Code Performance Improvements
 - [ ] ✅ Test
 - [ ] 🤖 Build
 - [ ] 🔁 CI
 - [ ] 📦 Chore (Release)
 - [ ] ⏩ Revert
+- [ ] ♿ Accessibility Improvements
+- [ ] 📦 Dependencies
 
 ## Description
 
